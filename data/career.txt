@@ -1,0 +1,249 @@
+[
+{
+	"job" : "Design Manager",
+	"company" : "EK Corp.",
+	"period" : "October 2014 - Present",
+	"works" : [
+	{
+		"task" : "키드키즈 사이트 운영관리",
+		"url" : "http://www.kidkids.net"
+	},
+	{
+		"task" : "키드키즈 공식 앱 디자인",
+		"url" : "https://play.google.com/store/apps/details?id=app.kidkids.net"
+	},
+	{
+		"task" : "키드키즈 알림장 앱 디자인",
+		"url" : "https://play.google.com/store/apps/details?id=com.teepahapa.app"
+	},
+	{
+		"task" : "키드키즈 패밀리 사이트 운영관리(재무회계, 구인구직, 아카데미, 키드키즈몰, 와글바글, 키즈쌤 등)",
+		"url" : "http://www.kidkids.net"
+	}
+	]
+},{
+	"job" : "Front-end Developer",
+	"company" : "웅진홀딩스(Woongjin Holdings)",
+	"period" : "June 2013 - October 2014",
+	"works" : [
+	{
+		"task" : "OTP Management System : 반응형 웹 마크업",
+		"url" : "http://www.wjncompany.com"
+	},
+	{
+		"task" : "웅진홀딩스 미국 법인 WJ&amp;COMPANY : 반응형 웹 마크업",
+		"url" : "http://www.wjncompany.com"
+	},
+	{
+		"task" : "웅진그룹 : 표준화 웹 접근성 마크업",
+		"url" : "http://www.woongjin.com"
+	}
+	,
+	{
+		"task" : "웅진홀딩스 : 표준화 웹 접근성 마크업",
+		"url" : "http://www.wjholdings.co.kr"
+	},
+	{
+		"task" : "렉스필드컨트리클럽 : 모바일전용 웹 마크업",
+		"url" : "http://m.rexfield.com"
+	},
+	{
+		"task" : "웅진씽크빅 하이브리드앱(씽크맘, 아이튜터, 아이리더 등) : 내부 웹 페이지 제작",
+		"url" : "javascript:void(0);"
+	},
+	{
+		"task" : "웅진플레이도시 : 웹접근성 유지보수/관리",
+		"url" : "http://www.playdoci.com"
+	},
+	{
+		"task" : "3D PAN : 웹접근성 유지보수/관리",
+		"url" : "http://www.3dpan.co.kr/"
+	},
+	{
+		"task" : "웅진그룹 웹 스타일 가이드 : 가이드 사이트 제작",
+		"url" : "http://web-guide.woongjin.com"
+	},
+	{
+		"task" : "웅진그룹 멘토링 : [내부사이트] 크로스브라우징 마크업",
+		"url" : "http://mento.woongjin.com"
+	},
+	{
+		"task" : "기타 웅진홀딩스 관리 사이트 유지보수 작업 진행",
+		"url" : "javascript:void(0);"
+	}
+	]
+},
+{
+	"job" : "Front-end Developer",
+	"company" : "한화생명",
+	"period" : "May 2013",
+	"works" : [
+	{
+		"task" : "내부 인트라넷 시스템(이글오피스) 웹 표준화 및 크로스브라우징 작업",
+		"url" : "javascript:void(0);"
+	}
+	]
+},
+{
+	"job" : "Web Planner &amp; Designer",
+	"company" : "GnB영어전문교육(주) : GnB English Education. Co., Ltd.",
+	"period" : "October 2007 - April 2013<br/>February 2006 - October 2006",
+	"works" : [
+	{
+		"task" : "지앤비영어전문교육 공식 사이트 3차, 4차 리뉴얼 진행 : 기획, 디자인, 웹 표준 마크업",
+		"url" : "http://www.gnbenglish.com"
+	},
+	{
+		"task" : "교육용 CD 타이틀 스킨 디자인 : Read Right 시리즈 전 교재",
+		"url" : "javascript:void(0);"
+	},
+	{
+		"task" : "Placement Test CD 타이틀 스킨 디자인",
+		"url" : "javascript:void(0);"
+	},
+	{
+		"task" : "지앤비영어전문교육 이러닝 시스템 구축 : GnB e-Training System [디자인, 마크업]",
+		"url" : "javascript:void(0);"
+	},
+	{
+		"task" : "지앤비영어전문교육 영어단어학습용 프로그램 개발 : GnB Voca-Race [기획, 디자인, 마크업]",
+		"url" : "javascript:void(0);"
+	},
+	{
+		"task" : "GnB Canada 사이트 리뉴얼 [디자인, 마크업]",
+		"url" : "http://www.gnbcanada.com"
+	},
+	{
+		"task" : "GnB Talk Sense 사이트 신규 제작 [기획, 디자인, 웹표준 마크업]",
+		"url" : "http://www.gnbtalk.com"
+	},
+	{
+		"task" : "GnB China 사이트 신규 제작 및 리뉴얼 [기획, 디자인, 웹표준 마크업]",
+		"url" : "http://www.gnbchina.com/2nd/"
+	},
+	{
+		"task" : "GnB Study Manager 프로젝트 [기획, 디자인, FLEX MXML 마크업]",
+		"url" : "javascript:void(0);"
+	},
+	{
+		"task" : "GnB캠퍼스 관리 프로젝트 [기획, 디자인, FLEX MXML 마크업]",
+		"url" : "javascript:void(0);"
+	},
+	{
+		"task" : "GnB e-Training System 리뉴얼 [기획, 디자인, 웹표준 마크업]",
+		"url" : "javascript:void(0);"
+	},
+	{
+		"task" : "GnB 표준인증 시험 프로젝트 [기획, 디자인, 웹표준 마크업]",
+		"url" : "javascript:void(0);"
+	},
+	{
+		"task" : "지앤비영어전문교육 첨삭 프로그램 구축 : GnB Essay Writing [PL, 기획, 디자인]",
+		"url" : "javascript:void(0);"
+	},
+	{
+		"task" : "GnB 학습통계프로그램 [기획, 디자인, FLEX MXML 마크업]",
+		"url" : "javascript:void(0);"
+	},
+	{
+		"task" : "GnB Mobile APP/WEB 개발 [PM, 기획, 디자인]",
+		"url" : "javascript:void(0);"
+	},
+	{
+		"task" : "GnB NEAT 모의고사 SKIN 개발 [디자인]",
+		"url" : "javascript:void(0);"
+	},
+	{
+		"task" : "GnB 중학 사이트(패럴렉스 잉글리쉬) 개발 [디자인, 워드프레스 테마 커스텀]",
+		"url" : "http://www.parallaxenglish.com"
+	},
+	{
+		"task" : "GnB Smart English 사이트 개발 [디자인, 워드프레스 테마 커스텀]",
+		"url" : "http://smart.gnbtalk.com"
+	},
+	{
+		"task" : "기타 GnB 이벤트 페이지 기획 및 디자인, 마크업 업무 등 진행<br/>- Hi! GnB Festival, KT 판촉 업무, UCC 페스티벌, 14일 동안 업무 제휴, GnB Online Program 신규 런칭, 할로윈데이 판촉 제휴 등 다수 이벤트",
+		"url" : "javascript:void(0);"
+	}
+	]
+},
+{
+	"job" : "Web Planner &amp; Designer",
+	"company" : "(주)상원IT : SANGWON I.T Co.",
+	"period" : "October 2006 - October 2007",
+	"works" : [
+	{
+		"task" : "디자인소품몰 자네티닷컴 구축 : 프론트 페이지 및 관리자 페이지 구축 [기획, 디자인, 운영&amp;관리]",
+		"url" : "http://www.zanetty.com"
+	}
+	]
+},
+{
+	"job" : "Web Designer",
+	"company" : "(주)보노 : BONO. Inc.",
+	"period" : "November 2004 - November 2005",
+	"works" : [
+	{
+		"task" : "캐릭터 및 기프트 상품 쇼핑몰인 보노코리아 리뉴얼 및 운영 [디자인, 운영&amp;관리]",
+		"url" : "http://www.bonokorea.co.kr"
+	}
+	]
+},
+{
+	"job" : "Contents Designer",
+	"company" : "㈜디유넷 : DUNET",
+	"period" : "January 2004 - October 2004",
+	"works" : [
+	{
+		"task" : "육군대학(대전 자운대 소재) CBT(Computer Based Traning) 콘텐츠 제작 [디자인, 마크업, 플래쉬 제작]",
+		"url" : "javascript:void(0);"
+	}
+	]
+},
+{
+	"job" : "Freelancer",
+	"company" : "Freelancer",
+	"period" : "2010 - 2013",
+	"works" : [
+	{
+		"task" : "패션 SNS 사이트 제작 : PEEPSHOW [2012.11~2013.05 / 기획, 디자인, 워드프레스 테마 커스텀]",
+		"url" : "http://www.peepshow.co.kr"
+	},
+	{
+		"task" : "남양유업 소셜 블로그 제작 : Social Namyangi [2012.09~2012.10 / 워드프레스 테마 커스텀]",
+		"url" : "http://social.namyangi.com"
+	},
+	{
+		"task" : "성남, 분당 지역 신문사 분수네신문의 UCC 사이트 제작 : 분수네ONAIR [2012.07~2012.08 / 기획, 디자인, 워드프레스 테마 커스텀]",
+		"url" : "http://bunsuneonair.com"
+	},
+	{
+		"task" : "웹플러* 공식 사이트 제작 [2012.05~2012.06 / 기획, 디자인, 워드프레스 테마 커스텀]",
+		"url" : "http://www.weplr.com"
+	},
+	{
+		"task" : "테마형 브런치 카페 [더:페이지] 공식 사이트 제작 [2012.03~2012.05 / 기획, 디자인, 웹표준 마크업]",
+		"url" : "http://www.thepagebrunch.com"
+	},
+	{
+		"task" : "입학사정관제 멘토링 사이트 제작 : MentoEdu [2012.02~2012.03 / 기획, 디자인, 워드프레스 테마 커스텀]",
+		"url" : "http://mentoedu.com/main.php"
+	},
+	{
+		"task" : "폐쇄형 협업 SNS 시스템 : OneSquare [2011.11~2012.02 / 기획, 디자인, 웹표준 마크업]",
+		"url" : "http://www.onesquare.net"
+	},
+	{
+		"task" : "소비자가 가격을 결정한다.. 신개념 소셜커머스 사이트 제작 : NEGONDEAL [2011.04 ~ 2011.09 / 기획, 디자인, 웹표준 마크업]",
+		"url" : "http://www.negondeal.com"
+	},
+	{
+		"task" : "입학사정관제 연습/데모 사이트 제작 : LODU [2010.11~2011.10 / 기획, 디자인, 웹표준 마크업]",
+		"url" : "http://www.lodu.co.kr"
+	},{
+		"task" : "전단/출판 관련 회사 홍보용 사이트 제작 : 배포스타 [2010.04 / 디자인, 웹표준 마크업]",
+		"url" : "http://baepostar.com/"
+	}
+	]
+}
+]

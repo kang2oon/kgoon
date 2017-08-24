@@ -1,0 +1,20 @@
+[
+	{
+		"ko_nm" : "중부대학교 컴퓨터그래픽전공",
+		"en_nm" : "Joongbu University Department of Computer Graphics",
+		"period" : "4 Years Course",
+		"gday" : "February 2004"
+	},
+	{
+		"ko_nm" : "마산고등학교",
+		"en_nm" : "Masan High School",
+		"period" : "3 Years Course",
+		"gday" : "February 1997"
+	},
+	{
+		"ko_nm" : "한빛교육센터",
+		"en_nm" : "기초부터 중급까지 바로쓰는 플렉스 3 실무 활용 과정",
+		"period" : "1 Months Course",
+		"gday" : "July 2009"
+	}
+]

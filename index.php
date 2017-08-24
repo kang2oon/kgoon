@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0,minimum-scale=1.0,user-scalable=no">
+	<meta name="author" content="kang2oon">
+	<title>Kang2oon Resume &amp; Careers</title>
+	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="/inc/css/owl.carousel.min.css">
+	<link rel="stylesheet" href="/inc/css/jPages.css">
+	<link rel="stylesheet" href="/inc/css/jquery.fancybox.css">
+	<link rel="stylesheet/less" href="/inc/css/kang2oon.less">
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+	<![endif]-->
+</head>
+<body data-spy="scroll" data-target="#topbar-inner" data-offset="58">
+	<header>
+		<div id="topbar-inner">
+			<div class="container">
+				<div class="row">
+					<ul id="nav" class="nav navbar">
+						<li class="active"><a href="#home" title="Home"><i class="fa fa-home"></i> <span class="hidden-xs">Home</span></a></li>
+						<li><a href="#about" title="About"><i class="fa fa-user"></i> <span class="hidden-xs">About</span></a></li>
+						<li><a href="#resume" title="Resume"><i class="fa fa-file"></i> <span class="hidden-xs">Resume</span></a></li>
+						<li><a href="#work" title="Works"><i class="fa fa-briefcase"></i> <span class="hidden-xs">Portfolio</span></a></li>
+						<li><a href="#contact" title="Contact"><i class="fa fa-envelope"></i> <span class="hidden-xs">Contact</span></a></li>
+					</ul><!--/ uL#nav -->
+					<div class="clear"></div>
+				</div><!--/.row -->
+			</div><!--/.container -->
+			<div class="clearfix"></div>
+		</div><!--/ #topbar-inner -->
+	</header>
+	
+	<section id="home" name="home"></section>
+	<div class="container-fulid" id="head">
+		<div class="row">
+			<div id="mainslider" class="owl-carousel">
+				<div class="item ms1"></div>
+				<div class="item ms2"></div>
+				<div class="item ms3"></div>
+			</div>
+			<div class="ttit">
+				<h1>Kang2oon</h1>
+				<h3>Ji Young, kang | kang2oon@gmail.com</h3>
+			</div>
+		</div>
+	</div>
+	
+	<section id="about" name="about"></section>
+	<div class="darker">
+		<div class="container cgap">
+			<div class="row">
+				<div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
+					<h4>ABOUT</h5>
+				</div>
+				<div class="col-lg-7 col-md-7 col-sm-8 col-xs-12">
+					<p>
+						저는 13년차 웹 프론트엔드 개발자입니다. 웹 디자인과 웹 기획을 거쳐 현재는 EK(주)의 디자인팀장으로 근무하고 있습니다.<br/>
+						웹에 대한 전반적인 모든 부분에 관심이 많습니다. 그 중 최근 가장 흥미를 가지고 있는 부분은 UX와 반응형 웹, LESS 등 입니다.
+						또한 다양한 프론트엔드 프레임워크 및 제이쿼리 플러그인 등의 기술에 관심을 가지고 있으며, 해당 분야에 대한 기술을 지속적으로
+						연구 및 리서치하고 있습니다. 다양한 프로젝트를 진행하면서 쌓은 경험과 노하우로 언제나 최고의 결과물을 만들고자 노력합니다.
+					</p>
+					<!--p>
+						저는 13년차 웹 프론트엔드 개발자입니다. 웹 디자인과 웹 기획을 거쳐 현재는 웹 퍼블리셔 프리랜서로 일하고 있습니다.<br/>
+						웹에 대한 전반적인 모든 부분에 관심이 있습니다. 그 중 최근 가장 흥미를 가지고 있는 부분은 반응형 웹과 LESS 입니다. 또한 
+						다양한 프론트엔드 프레임워크 및 제이쿼리 플러그인 등의 기술에 관심을 가지고 있으며, 해당 분야에 대한 기술을 지속적으로
+						연구 및 리서치하고 있습니다. 다양한 프로젝트를 진행하면서 쌓은 경험과 노하우로 언제나 최고의 결과물을 만들고자 노력합니다.
+					</p-->
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+					<p class="text-right"><a href="/images/resume/resume.pdf"><i class="fa fa-download"></i> DOWNLOAD PDF</a></p>
+				</div>
+			</div><!--/.row -->
+		</div><!--/.container -->
+	</div><!--/ #intro -->
+	
+	<section id="resume" name="resume"></section>
+	<!--EDUCATION DESCRIPTION -->
+	<div class="container cgap hr_line">
+		<div class="row">
+				<div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
+					<h4>EDUCATION</h5>
+				</div>
+				
+				<div class="col-lg-10 col-md-10 col-sm-12 col-xs-12">
+					<div class="row" id="edulist">
+						
+					</div>
+				</div>
+		</div><!--/.row -->
+	</div><!--/.container -->
+	
+	<!--CAREERS DESCRIPTION -->
+	<div class="container cgap">
+		<div class="row">
+				<div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
+					<h4>CAREERS</h5>
+				</div>
+				
+				<div class="col-lg-10 col-md-10 col-sm-12 col-xs-12">
+					<ul id="careerlist">
+						
+					</ul>
+					<div class="row career_more">
+						<div class="col-xs-6"><div class="holder career_page"></div></div>
+						<div class="col-xs-6 text-right"><button class="btn btn-xs btn-success career_all">ALL CAREER</button></div>
+					</div>
+				</div>
+		</div><!--/.row -->
+	</div><!--/.container -->
+	
+	<!--SKILLS DESCRIPTION -->
+	<div class="darker">
+		<div class="container cgap">
+			<div class="row">
+					<div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
+						<h4>SKILLS</h5>
+					</div>
+					
+					<div class="col-lg-10 col-md-10 col-sm-12 col-xs-12">
+						<div class="row skill_chart">
+							<div class="col-lg-4 col-md-4 col-sm-4 col-xs-6 text-center">
+								<canvas id="markup" height="130" width="130"></canvas>
+								<p>HTML/CSS</p>
+								<p class="dingbet"><i class="fa fa-html5"></i></p>
+							</div>
+							<div class="col-lg-4 col-md-4 col-sm-4 col-xs-6 text-center">
+								<canvas id="jvquery" height="130" width="130"></canvas>
+								<p>JAVASCRIPT/JQUERY</p>
+								<p class="dingbet"><i class="fa fa-code"></i></p>
+							</div>
+							<div class="col-lg-4 col-md-4 col-sm-4 col-xs-6 text-center">
+								<canvas id="bootst" height="130" width="130"></canvas>
+								<p>BOOTSTRAP</p>
+								<p class="dingbet"><i class="fa fa-tasks"></i></p>
+							</div>
+							<div class="col-lg-4 col-md-4 col-sm-4 col-xs-6 text-center">
+								<canvas id="adobeps" height="130" width="130"></canvas>
+								<p>PHOTOSHOP</p>
+								<p class="dingbet"><i class="fa fa-photo"></i></p>
+							</div>
+							<div class="col-lg-4 col-md-4 col-sm-4 col-xs-6 text-center">
+								<canvas id="adobeill" height="130" width="130"></canvas>
+								<p>ILLUSTRATOR</p>
+								<p class="dingbet"><i class="fa fa-pencil-square-o"></i></p>
+							</div>
+							<div class="col-lg-4 col-md-4 col-sm-4 col-xs-6 text-center">
+								<canvas id="wpblog" height="130" width="130"></canvas>
+								<p>WORDPRESS</p>
+								<p class="dingbet"><i class="fa fa-wordpress"></i></p>
+							</div>
+						</div>
+					</div>
+			</div><!--/.row -->
+		</div><!--/.container -->
+	</div>
+	
+	<section id="work" name="work"></section>
+	<!--PORTFOLIO DESCRIPTION -->
+	<div class="container cgap">
+		<div class="row">
+				<div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
+					<h4>PORTFOLIO</h5>
+				</div>
+				
+				<div class="col-lg-10 col-md-10 col-sm-12 col-xs-12">
+					<ul id="pflist">
+						
+					</ul>
+					<div class="row pf_more">
+						<div class="col-xs-6"><div class="holder pf_page"></div></div>
+						<div class="col-xs-6 text-right"><button class="btn btn-xs btn-success pf_all">ALL PORTFOLIO</button></div>
+					</div>
+				</div>
+		</div><!--/.row -->
+	</div><!--/.container -->
+	
+	<section id="contact" name="contact"></section>
+	<!--CONTACT DESCRIPTION -->
+	<div class="dgray">
+		<div class="container cgap">
+			<div class="row">
+					<div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
+						<h4>CONTACT</h5>
+					</div>
+					
+					<div class="col-lg-6 col-md-6 col-sm-7 col-xs-12">
+						<h5>Email</h5>
+						<p class="dbmargin"><a href="mailto:kang2oon@gmail.com" target="_blank">kang2oon@gmail.com</a></p>
+						<h5>Address</h5>
+						<p>서울시 구로구 천왕동 천왕로 10</p>
+						<h5>Phone</h5>
+						<p><a href="tel:01025896836" target="_blank">+82-10-2589-6836</a></p>
+					</div>
+					<div class="col-lg-4 col-md-4 col-sm-3 col-xs-12">
+						<h5>Social Link</h5>
+						<ul class="social2ink">
+							<li><a href="http://www.facebook.com/kang2oon" target="_blank"><i class="fa fa-facebook"></i></a></li>
+							<li><a href="http://twitter.com/kang2oon" target="_blank"><i class="fa fa-twitter"></i></a></li>
+							<li><a href="https://plus.google.com/u/0/118191871225886815963/posts" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+							<li><a href="http://www.linkedin.com/profile/view?id=127092863&trk=tab_pro" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+							<li><a href="http://pinterest.com/kang2oon/" target="_blank"><i class="fa fa-pinterest"></i></a></li>
+							<li><a href="http://kang2oon.tumblr.com/" target="_blank"><i class="fa fa-tumblr"></i></a></li>
+							<li><a href="https://www.youtube.com/channel/UCcoRifOhst6Yec_vgEFJ8EA" target="_blank"><i class="fa fa-youtube-play"></i></a></li>
+							<li><a href="https://vimeo.com/kang2oon" target="_blank"><i class="fa fa-vimeo-square"></i></a></li>
+							<li><a href="http://www.kang2oon.com" target="_blank"><i class="fa fa-home"></i></a></li>
+							<li><a href="http://www.ksazit.com" target="_blank"><i class="fa fa-child"></i></a></li>
+						</ul>
+					</div>
+			</div><!--/.row -->
+		</div><!--/.container -->
+	</div>
+	
+	<footer>
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-9 hidden-xs">
+					<p class="browser">본 사이트는 HTML5/CSS3를 이용하여 제작되어 IE10 이상에서 제대로 이용하실 수 있습니다.</p>
+				</div>
+				<div class="col-sm-3 col-xs-12">
+					<p class="creatby">Created by <span>Kang2oon</span></p>
+				</div>
+			</div>
+		</div>
+	</footer>
+
+	<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+	<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/less.js/1.7.0/less.min.js"></script>
+	<script src="/inc/js/owl.carousel2.js"></script>
+	<script src="/inc/js/jPages.min.js"></script>
+	<script src="/inc/js/Chart.min.js"></script>
+	<script src="/inc/js/jquery.fancybox.pack.js"></script>
+	<script src="/inc/js/kang2oon.js"></script>
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-24022911-1', 'auto');
+	  ga('send', 'pageview');
+
+	</script>
+</body>
+</html>

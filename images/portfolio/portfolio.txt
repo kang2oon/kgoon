@@ -1,0 +1,102 @@
+[
+{
+	"title" : "WJ&amp;COMPANY",
+	"client" : "WJ&amp;COMPANY",
+	"sector" : "웅진홀딩스(Woongjin Holdings)",
+	"period" : "July 2014 - August 2014",
+	"img" : "/images/portfolio/pf_wjncompany.jpg",
+	"url" : "http://www.wjncompany.com",
+	"tags" : "Responsive Web, Bootstrap, Touch Slider, Responsive Tab &amp; Accordion, Google Map API",
+	"description" : "웅진홀딩스의 미국법인인 WJ&amp;COMPANY 사이트 제작 프로젝트<br/>반응형웹을 컨셉으로 Bootsteap을 이용하여 제작<br/>각 서브메뉴의 페이지 이동을 Swipe 액션으로 구현하기 위해 Touch Slider을 이용<br/>Tab 콘텐츠의 경우 Mobile Device에서 Accordion으로 대체 구현"
+},
+{
+	"title" : "Mobile Rexfield",
+	"client" : "Rexfield Country Club",
+	"sector" : "웅진홀딩스(Woongjin Holdings)",
+	"period" : "April 2014 - May 2014",
+	"img" : "/images/portfolio/pf_rexfield_mobile.jpg",
+	"url" : "http://m.rexfield.com",
+	"tags" : "Mobile Web, Bootstrap, Touch Slider",
+	"description" : "웅진그룹의 계열사 중 하나인 렉스필드 컨트리클럽의 모바일 사이트<br/>모바일 디바이스의 사용이 증가됨에 따라 이동중에도 예약 및 정보 등을 확인할 필요성 부각으로 인한 사이트 제작 이슈 제기"
+},
+{
+	"title" : "Playdoci",
+	"client" : "Woongjin Playdoci",
+	"sector" : "웅진홀딩스(Woongjin Holdings)",
+	"period" : "January 2014 - PRESENT",
+	"img" : "/images/portfolio/pf_playdoci.jpg",
+	"url" : "http://www.playdoci.com/",
+	"tags" : "Cross Browsing, Web Accessibility, Maintenance",
+	"description" : "웹 표준 및 웹 접근성으로 리뉴얼한 웅진 플레이도시 사이트의 콘텐츠 수정, 이벤트 등록, 신규 페이지 제작 등의 유지보수 관리 업무"
+},
+{
+	"title" : "Woongjin Holdings",
+	"client" : "Woongjin Holdings",
+	"sector" : "웅진홀딩스(Woongjin Holdings)",
+	"period" : "September 2013 - October 2013",
+	"img" : "/images/portfolio/pf_wjholdings.jpg",
+	"url" : "http://www.wjholdings.co.kr",
+	"tags" : "Cross Browsing, Web Accessibility",
+	"description" : "정부의 웹 접근성 정책 시행에 맞춰 웅진홀딩스 기업 사이트를 웹 표준 및 웹 접근성에 맞춰 기존 사이트 전체의 마크업을 새로 진행"
+},
+{
+	"title" : "Woongjin Group",
+	"client" : "Woongjin Holdings",
+	"sector" : "웅진홀딩스(Woongjin Holdings)",
+	"period" : "July 2013 - August 2013",
+	"img" : "/images/portfolio/pf_woongjin.jpg",
+	"url" : "http://www.woongjin.com",
+	"tags" : "Cross Browsing, Web Accessibility",
+	"description" : "정부의 웹 접근성 정책 시행에 맞춰 웅진그룹의 기업 사이트를 웹 표준 및 웹 접근성에 맞춰 기존 사이트 전체의 마크업을 새로 진행"
+},
+{
+	"title" : "Peepshow",
+	"client" : "Peepshow",
+	"sector" : "웹플러(Weplr*)",
+	"period" : "November 2012 - January 2013",
+	"img" : "/images/portfolio/pf_peepshow.jpg",
+	"url" : "http://peepshow.co.kr",
+	"tags" : "Blog, Social, Wordpress, BBpress, Buddypress",
+	"description" : "패션 전문 소셜 큐레이팅 블로그 서비스인 핍쇼(Peepshow) 제작 프로젝트<br/>워드프레스 뿐만 아니라 버디프레스와 비비프레스를 전반적으로 활용하여 소셜 기능에 포커싱을 맞춰 제작 진행"
+},
+{
+	"title" : "Social Namyangi",
+	"client" : "Namyang",
+	"sector" : "웹플러(Weplr*)",
+	"period" : "September 2012 - October 2012",
+	"img" : "/images/portfolio/pf_social_namyangi.jpg",
+	"url" : "http://social.namyangi.com",
+	"tags" : "Blog, Social, Wordpress",
+	"description" : "남양유업의 소셜 블로그 제작 건으로 기존 티스토리로 운영 중이던 남양유업 기업 블로그와 프렌치카페 브랜드 블로그 2개의 블로그를 워드프레스를 이용하여 하나의 소셜 연동 블로그로 통합하는 프로젝트<br/>워드프레스 테마 커스텀 및 관련 플러그인 제작 진행"
+},
+{
+	"title" : "Bunsune Onair",
+	"client" : "Bunsune",
+	"sector" : "웹플러(Weplr*)",
+	"period" : "July 2012 - August 2012",
+	"img" : "/images/portfolio/pf_bunsune.jpg",
+	"url" : "http://bunsuneonair.com",
+	"tags" : "UCC, Community, Blog, Magazine, News, Wordpress",
+	"description" : "성남, 분당 지역 신문사인 분수네 신문사의 UCC 사이트 제작 프로젝트<br/>지역의 교육 관련 뉴스와 고등학생 기자단이 취재한 뉴스를 동영상으로 업로드하여 공유할 수 있도록 제공하는 UCC 사이트를 워드프레스를 이용하여 제작"
+},
+{
+	"title" : "Weplr*",
+	"client" : "Weplr",
+	"sector" : "웹플러(Weplr*)",
+	"period" : "May 2012 - June 2012",
+	"img" : "/images/portfolio/pf_weplr.jpg",
+	"url" : "http://www.weplr.com",
+	"tags" : "Blog, Wordpress",
+	"description" : "스타트업 기업인 웹플러(Weplr*)의 기업 공식 사이트 제작 프로젝트"
+},
+{
+	"title" : "[the:page brunch]",
+	"client" : "[the:page]",
+	"sector" : "웹플러(Weplr*)",
+	"period" : "March 2012 - May 2012",
+	"img" : "/images/portfolio/pf_thepage.jpg",
+	"url" : "http://thepagebrunch.com/",
+	"tags" : "Gnuboard, Grid Layout, Gallery, Feedback",
+	"description" : "갤러리가 있는 카페.. [더:페이지]가 운영하는 [the:page brunch] 카페의 공식 홈페이지 제작 프로젝트<br/>전시회 소개 및 메뉴 등을 손쉽게 관리할 수 있으며, 예약 시스템 등을 갖추 수 있도록 CMS Tools 중 하나인 그누보드(Gnu-Board)를 활용하여 제작<br/>피드백 시스템도 탑재하여 고객들과의 소통을 위한 채널 제공"
+}
+]

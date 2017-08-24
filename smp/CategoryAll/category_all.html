@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+	<title>Document</title>
+	<link href="css/category_all.css" type="text/css" rel="stylesheet" />
+	<script src="js/jquery-1.10.1.min.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$.ajax({
+				url      : 'category.txt',
+				data     : '',
+				dataType : 'json',
+				success  : function (data, s, r){
+					if(data != null){
+						$('#cate_wrap').append('<ul/>');
+						var $ul = $('#cate_wrap > ul'); 
+						for(idx in data){
+							var depth1 = data[idx].dp1;
+							var url = data[idx].url;
+							var depth2 = undefined;
+							$ul.append('<li><a href="' + url + '">' + depth1 + '</a></li>');
+							try {
+								depth2 = data[idx].dp2;
+								if (depth2 != undefined){
+									var $ul2 = $ul.find('li:last').append('<ul class="dp2"/>');
+									for(idx2 in depth2){
+										$ul2.find('ul.dp2').append('<li><a href="' + depth2[idx2].url + '">' + depth2[idx2].nm + '</a></li>');
+										var depth3 = undefined;
+										try{
+											depth3 = depth2[idx2].dp3;
+											if (depth3 != undefined){
+												var $ul3 = $ul2.find('li:last').append('<ul class="dp3"/>');
+												for(idx3 in depth3){
+													$ul3.find('ul.dp3').append('<li><a href="' + depth3[idx3].url + '">' + depth3[idx3].nm + '</a></li>');
+												}
+											}
+										}
+										catch(e){ }
+									}
+								}
+							}
+							catch(e){ }
+						}
+					}
+				}
+			})
+		})
+		$(document).ajaxComplete(function(){
+			//alert($('ul.dp3').parent('li').html());
+			$('ul.dp3').parent('li').addClass('sub');
+			$('li.sub').parent('ul').addClass('mwidth');
+			var $height = $('#cate_wrap > ul').height();
+			//alert($height);
+			$('#cate_wrap > ul > li').css('height', $height);
+			var $height2 = Math.max.apply(null, $("ul.dp2").map(function (){
+				return $(this).height();
+			}).get());
+			//alert($height2);
+			$('ul.dp2').css('height', $height2);
+			$('ul.dp2').parent('li').css('padding-right', '0');
+		});
+		
+		function cate_colse() {
+			$('#cate_wrap').hide();
+		}
+	</script>
+</head>
+<body>
+	<div id="cate_wrap">
+		<div class="btn_close"><a href="javascript:cate_colse();"><img src="images/btn_close.gif" alt="닫기" /></a></div>
+	</div>
+</body>
+</html>

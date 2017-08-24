@@ -38,7 +38,7 @@ $(document).ready(function(){
 	$.ajax({
 		type: "GET",
 		dataType: "text",
-		url: "/data/education.txt",
+		url: "/kgoon/data/education.txt",
 		success: edu_list
 	});
 	function edu_list(json){
@@ -60,7 +60,7 @@ $(document).ready(function(){
 	$.ajax({
 		type: "GET",
 		dataType: "text",
-		url: "/data/career.txt",
+		url: "/kgoon/data/career.txt",
 		success: career_list
 	});
 	function career_list(json){
@@ -226,7 +226,7 @@ $(document).ready(function(){
 	$.ajax({
 		type: "GET",
 		dataType: "text",
-		url: "/data/portfolio.txt",
+		url: "/kgoon/data/portfolio.txt",
 		success: pf_list
 	});
 	function pf_list(json){

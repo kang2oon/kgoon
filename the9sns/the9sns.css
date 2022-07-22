@@ -3,7 +3,7 @@ body{margin:0;padding:0;}
 img{max-width:100%;}
 .clearfix:before,.clearfix:after{content:"";display:block}.clearfix:after{clear:both;visibility:hidden;line-height:0;height:0}.clearfix{*zoom:1}
 
-.container-fluid{}
+/*.container-fluid{}*/
 
 nav.fixed{position:fixed;top:0;width:100%;}
 .navbar-default{background:#16277a;border:none;margin-bottom:0;}

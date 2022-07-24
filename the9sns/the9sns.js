@@ -7,4 +7,12 @@ $(document).ready(function(){
             $('nav').removeClass('fixed');
         }
     });
+
+    $('.modal_close').click(function(){
+        $('.modal_wrap, #md_signin').hide();
+    });
 });
+
+function md_signin(){
+    $('.modal_wrap, #md_signin').show();
+}
